@@ -1,0 +1,20 @@
+1)  
+  University ERP Management System
+  2.3.2.2.1.1 The system shall display all information about user which was provided during registration of user.
+  Incomplete,because I don't know what information shall be displayed.
+  Shalkarbai Nurzhigit.
+2)  
+  University ERP Management System
+  3.2.3.2.9 Dean/Administrator must fill all required fields.
+  Incomplete,because I don't know what fields are required.
+  Aidarov Shokhan.
+3)  
+  University ERP Management System
+  3.2.3.4.1 Dean, Administrator or Employee can update employee’s information.
+  Unambiguous,because Employee can update only self data but in 3.2.3.4.1 says employee also can update all employee's.
+  Uristen Madi.
+4)  
+  University ERP Management System
+  3.2.5.1.2 All the fields must be filled correctly.
+  Unambiguous,because I don't know how field's should fill correctly. 
+  Ordabayev Akylbek.
